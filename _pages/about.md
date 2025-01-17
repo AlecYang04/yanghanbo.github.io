@@ -11,4 +11,6 @@ Welcome to my homepage! I am currently a senior student at the [School of the Gi
 
 I am seeking for a PhD position starting in Fall 2025.
 
+[Email](mailto:nj_yhb@mail.ustc.edu.cn)[Wechat](nj_alec_yang)
+
 <!--I am very fortunate to have been advised by [Prof. Jun S. Liu](https://sites.harvard.edu/junliu/) from [Department of Statistics](https://statistics.fas.harvard.edu/home), Harvard University, [Prof. Zhongyi Zhu](https://www.fdsm.fudan.edu.cn/En/preview.html?UID=012017) from [School of Management](https://www.fdsm.fudan.edu.cn/en/), Fudan University and [Prof. Zhouwang Yang](https://faculty.ustc.edu.cn/yangzhouwang/en/index.htm) from [School of Mathematical Sciences](https://math.ustc.edu.cn/_t1477/ENGLISH/list.psp), USTC. -->
